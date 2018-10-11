@@ -19,6 +19,8 @@ assert SumDigits(15)==26
 
 print(SumDigits(1000))
 
+##La réponse est 1366
+
 #Problème 22
 
 def NameInOrder():
@@ -51,6 +53,8 @@ def NamesScores():
     return score
 
 print(NamesScores())
+
+##La réponse est 870821383
 
 #Problème 55
 
@@ -87,7 +91,7 @@ def LychrelNumbers(n):
     
 print(LychrelNumbers(10000))
     
-    
+##La réponse est 249
     
     
     
